@@ -3,7 +3,8 @@ Prerequisites
 Python 3.x
 Required libraries: NumPy, pandas, scikit-learn
 Installation
-Clone the repository to your local machine:
+Clone the repository to your local machine:git clone https://github.com/pratikshasarole/salary_prediction.git
+
 
 Install the required libraries using pip:
 pip install numpy pandas scikit-learn
